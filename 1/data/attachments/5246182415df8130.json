@@ -1,0 +1,18 @@
+{
+    "id": 90755,
+    "category": {
+        "id": 1,
+        "name": "Zhuang"
+    },
+    "name": "Andrea",
+    "photoUrls": [
+        "http://www.short.info/"
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "PaleGreen"
+        }
+    ],
+    "status": "available"
+}

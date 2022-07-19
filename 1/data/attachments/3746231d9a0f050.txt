@@ -1,0 +1,7 @@
+POST https://petstore.swagger.io/v2/pet
+
+Headers
+ {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'accept': 'application/json', 'Connection': 'keep-alive', 'Content-Type': 'application/json', 'Content-Length': '173'}
+
+Body
+ b'{"id": 30883, "category": {"id": 6, "name": "Tibetan"}, "name": "Kevin", "photoUrls": ["http://sullivan.com/"], "tags": [{"id": 9, "name": "Violet"}], "status": "available"}'

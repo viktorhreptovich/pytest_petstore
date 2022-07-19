@@ -1,0 +1,18 @@
+{
+    "id": 83099,
+    "category": {
+        "id": 0,
+        "name": "Tibetan"
+    },
+    "name": "Vasiliy",
+    "photoUrls": [
+        "https://www.dean.com/"
+    ],
+    "tags": [
+        {
+            "id": 3,
+            "name": "LightPink"
+        }
+    ],
+    "status": "available"
+}

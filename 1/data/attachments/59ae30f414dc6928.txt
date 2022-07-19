@@ -1,0 +1,7 @@
+POST https://petstore.swagger.io/v2/pet
+
+Headers
+ {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'accept': 'application/json', 'Connection': 'keep-alive', 'Content-Type': 'application/json', 'Content-Length': '180'}
+
+Body
+ b'{"id": 60249, "category": {"id": 5, "name": "Lingala"}, "name": "Nicholas", "photoUrls": ["https://www.miles.org/"], "tags": [{"id": 7, "name": "Cornsilk"}], "status": "available"}'
