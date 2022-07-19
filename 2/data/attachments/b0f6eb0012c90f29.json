@@ -1,0 +1,18 @@
+{
+    "id": 27324,
+    "category": {
+        "id": 0,
+        "name": "Limburgan"
+    },
+    "name": "Susan",
+    "photoUrls": [
+        "https://www.koch-simpson.com/"
+    ],
+    "tags": [
+        {
+            "id": 7,
+            "name": "DodgerBlue"
+        }
+    ],
+    "status": "available"
+}

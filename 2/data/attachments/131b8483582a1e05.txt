@@ -1,0 +1,7 @@
+POST https://petstore.swagger.io/v2/pet
+
+Headers
+ {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'accept': 'application/json', 'Connection': 'keep-alive', 'Content-Type': 'application/json', 'Content-Length': '170'}
+
+Body
+ b'{"id": 88480, "category": {"id": 2, "name": "Chichewa"}, "name": "Kevin", "photoUrls": ["http://paul.com/"], "tags": [{"id": 7, "name": "Orange"}], "status": "available"}'

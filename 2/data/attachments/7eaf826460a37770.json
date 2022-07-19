@@ -1,0 +1,18 @@
+{
+    "id": 88480,
+    "category": {
+        "id": 2,
+        "name": "Chichewa"
+    },
+    "name": "Kevin",
+    "photoUrls": [
+        "http://paul.com/"
+    ],
+    "tags": [
+        {
+            "id": 7,
+            "name": "Orange"
+        }
+    ],
+    "status": "available"
+}

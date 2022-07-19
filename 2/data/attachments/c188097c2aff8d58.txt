@@ -1,0 +1,7 @@
+POST https://petstore.swagger.io/v2/pet
+
+Headers
+ {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'accept': 'application/json', 'Connection': 'keep-alive', 'Content-Type': 'application/json', 'Content-Length': '177'}
+
+Body
+ b'{"id": 49709, "category": {"id": 6, "name": "Tsonga"}, "name": "Lisa", "photoUrls": ["https://ramos-morgan.com/"], "tags": [{"id": 1, "name": "Crimson"}], "status": "available"}'

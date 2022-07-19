@@ -1,0 +1,18 @@
+{
+    "id": 25796,
+    "category": {
+        "id": 9,
+        "name": "Tsonga"
+    },
+    "name": "Vasiliy",
+    "photoUrls": [
+        "https://www.carrillo.com/"
+    ],
+    "tags": [
+        {
+            "id": 2,
+            "name": "MediumSeaGreen"
+        }
+    ],
+    "status": "available"
+}
