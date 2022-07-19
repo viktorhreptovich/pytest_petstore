@@ -1,0 +1,7 @@
+POST https://petstore.swagger.io/v2/pet
+
+Headers
+ {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'accept': 'application/json', 'Connection': 'keep-alive', 'Content-Type': 'application/json', 'Content-Length': '178'}
+
+Body
+ b'{"id": 44612, "category": {"id": 0, "name": "Cornish"}, "name": "James", "photoUrls": ["https://www.schmitt.biz/"], "tags": [{"id": 7, "name": "SkyBlue"}], "status": "available"}'

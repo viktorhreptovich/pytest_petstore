@@ -1,0 +1,7 @@
+POST https://petstore.swagger.io/v2/pet
+
+Headers
+ {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'accept': 'application/json', 'Connection': 'keep-alive', 'Content-Type': 'application/json', 'Content-Length': '176'}
+
+Body
+ b'{"id": 72323, "category": {"id": 0, "name": "Catalan"}, "name": "Drew", "photoUrls": ["http://www.mitchell.com/"], "tags": [{"id": 6, "name": "Salmon"}], "status": "available"}'

@@ -1,0 +1,18 @@
+{
+    "id": 72323,
+    "category": {
+        "id": 0,
+        "name": "Catalan"
+    },
+    "name": "Vasiliy",
+    "photoUrls": [
+        "http://www.mitchell.com/"
+    ],
+    "tags": [
+        {
+            "id": 6,
+            "name": "Salmon"
+        }
+    ],
+    "status": "available"
+}

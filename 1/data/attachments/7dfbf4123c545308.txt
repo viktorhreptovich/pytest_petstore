@@ -1,0 +1,7 @@
+DELETE https://petstore.swagger.io/v2/pet/45982
+
+Headers
+ {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'accept': 'application/json', 'Connection': 'keep-alive', 'Content-Type': 'application/json', 'Content-Length': '0'}
+
+Body
+ None

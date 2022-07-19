@@ -1,0 +1,7 @@
+POST https://petstore.swagger.io/v2/pet
+
+Headers
+ {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'accept': 'application/json', 'Connection': 'keep-alive', 'Content-Type': 'application/json', 'Content-Length': '179'}
+
+Body
+ b'{"id": 45982, "category": {"id": 3, "name": "Luba-Katanga"}, "name": "Melissa", "photoUrls": ["http://www.carr.com/"], "tags": [{"id": 1, "name": "Khaki"}], "status": "available"}'

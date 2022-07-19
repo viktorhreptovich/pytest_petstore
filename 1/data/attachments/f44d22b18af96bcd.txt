@@ -1,0 +1,7 @@
+PUT https://petstore.swagger.io/v2/pet
+
+Headers
+ {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'accept': 'application/json', 'Connection': 'keep-alive', 'Content-Type': 'application/json', 'Content-Length': '187'}
+
+Body
+ b'{"id": 23868, "category": {"id": 4, "name": "Kikuyu"}, "name": "Vasiliy", "photoUrls": ["https://www.owens-mckenzie.com/"], "tags": [{"id": 6, "name": "SeaGreen"}], "status": "available"}'

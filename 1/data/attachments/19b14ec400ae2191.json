@@ -1,0 +1,18 @@
+{
+    "id": 44612,
+    "category": {
+        "id": 0,
+        "name": "Cornish"
+    },
+    "name": "James",
+    "photoUrls": [
+        "https://www.schmitt.biz/"
+    ],
+    "tags": [
+        {
+            "id": 7,
+            "name": "SkyBlue"
+        }
+    ],
+    "status": "available"
+}

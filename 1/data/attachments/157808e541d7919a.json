@@ -1,0 +1,18 @@
+{
+    "id": 85358,
+    "category": {
+        "id": 4,
+        "name": "Dzongkha"
+    },
+    "name": "Krystal",
+    "photoUrls": [
+        "http://flores.com/"
+    ],
+    "tags": [
+        {
+            "id": 2,
+            "name": "DarkGray"
+        }
+    ],
+    "status": "available"
+}
