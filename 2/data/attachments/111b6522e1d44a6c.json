@@ -1,0 +1,18 @@
+{
+    "id": 62353,
+    "category": {
+        "id": 7,
+        "name": "Irish"
+    },
+    "name": "Vasiliy",
+    "photoUrls": [
+        "https://www.gillespie-dunlap.net/"
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "PeachPuff"
+        }
+    ],
+    "status": "available"
+}

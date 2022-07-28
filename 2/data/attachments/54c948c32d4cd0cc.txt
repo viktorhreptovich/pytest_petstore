@@ -1,0 +1,7 @@
+POST https://petstore.swagger.io/v2/pet
+
+Headers
+ {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'accept': 'application/json', 'Connection': 'keep-alive', 'Content-Type': 'application/json', 'Content-Length': '181'}
+
+Body
+ b'{"id": 40882, "category": {"id": 4, "name": "Kinyarwanda"}, "name": "Diana", "photoUrls": ["http://shepherd.info/"], "tags": [{"id": 9, "name": "LightGray"}], "status": "available"}'

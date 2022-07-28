@@ -1,0 +1,7 @@
+POST https://petstore.swagger.io/v2/pet
+
+Headers
+ {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'accept': 'application/json', 'Connection': 'keep-alive', 'Content-Type': 'application/json', 'Content-Length': '181'}
+
+Body
+ b'{"id": 2398, "category": {"id": 1, "name": "Church Slavic"}, "name": "Brandon", "photoUrls": ["https://www.hurst.com/"], "tags": [{"id": 0, "name": "Beige"}], "status": "available"}'

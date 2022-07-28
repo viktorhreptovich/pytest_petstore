@@ -1,0 +1,18 @@
+{
+    "id": 2398,
+    "category": {
+        "id": 1,
+        "name": "Church Slavic"
+    },
+    "name": "Brandon",
+    "photoUrls": [
+        "https://www.hurst.com/"
+    ],
+    "tags": [
+        {
+            "id": 0,
+            "name": "Beige"
+        }
+    ],
+    "status": "available"
+}

@@ -1,0 +1,7 @@
+Status code200
+
+Headers
+ {'Date': 'Thu, 28 Jul 2022 09:02:43 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, PUT', 'Access-Control-Allow-Headers': 'Content-Type, api_key, Authorization', 'Server': 'Jetty(9.2.9.v20150224)'}
+
+Body
+ {'id': 65318, 'category': {'id': 1, 'name': 'Latin'}, 'name': 'Justin', 'photoUrls': ['https://www.willis.com/'], 'tags': [{'id': 9, 'name': 'Crimson'}], 'status': 'available'}
